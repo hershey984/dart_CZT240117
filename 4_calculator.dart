@@ -12,7 +12,6 @@ Multiplication: 32
 Division: 2.0
 */
 
-import 'dart:ffi';
 
 void main() {
   int a = 8;
